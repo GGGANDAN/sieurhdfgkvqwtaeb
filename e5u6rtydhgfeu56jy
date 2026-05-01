@@ -1,0 +1,45 @@
+# Privacy Policy for Trivia Treasure
+
+**Effective Date:** May 1, 2026
+
+## Information We Collect
+
+Trivia Treasure stores game data locally on your device, including high scores, trivia statistics, gem balance, daily challenge streaks, and gameplay preferences. This data is stored using iOS UserDefaults and never leaves your device.
+
+We do not collect your name, email address, phone number, location, contacts, photos, or any personally identifiable information. There are no user accounts or login systems.
+
+## Third-Party Services
+
+### Google AdMob
+
+The app displays interstitial advertisements through Google AdMob. Google may collect device identifiers, ad interaction data, and approximate location via IP address in accordance with [Google's Privacy Policy](https://policies.google.com/privacy). You can opt out of personalized advertising through **iOS Settings > Privacy & Security > Tracking**.
+
+### Apple App Store
+
+In-app purchases (gems and ad removal) are processed entirely by Apple through StoreKit. Apple handles all payment and transaction data per [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). The app only receives confirmation that a purchase was completed.
+
+## Network Activity
+
+The Daily Challenge feature makes a single request to apple.com to verify the current date. This prevents timezone manipulation and does not transmit any personal information.
+
+## Data Storage
+
+All game data is stored locally on your device. There is no cloud syncing, no server-side storage, and no external backups. Deleting the app removes all stored data.
+
+## Children's Privacy
+
+The app does not knowingly collect personal information from children under 13. Advertisements displayed by Google AdMob may collect device information as described above.
+
+## Your Choices
+
+- Purchase **Remove Ads** ($1.99) to permanently disable all advertisements.
+- Disable personalized ads in **iOS Settings**.
+- Delete the app at any time to remove all local data.
+
+## Changes
+
+Updates to this policy will be posted here with a revised effective date.
+
+## Contact
+
+For questions or concerns, please reach out at **[YOUR_EMAIL]**.
