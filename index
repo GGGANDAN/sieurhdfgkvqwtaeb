@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Trivia Treasure</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #333;
+            line-height: 1.6;
+            background: #fafafa;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 4px;
+        }
+        h2 {
+            font-size: 20px;
+            margin-top: 32px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 6px;
+        }
+        h3 {
+            font-size: 17px;
+            margin-top: 20px;
+        }
+        p, li {
+            font-size: 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        a {
+            color: #0070c9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .date {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 32px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Privacy Policy for Trivia Treasure</h1>
+<p class="date">Effective Date: May 1, 2026</p>
+
+<h2>Information We Collect</h2>
+<p>Trivia Treasure stores game data locally on your device, including high scores, trivia statistics, gem balance, daily challenge streaks, and gameplay preferences. This data is stored using iOS UserDefaults and never leaves your device.</p>
+<p>We do not collect your name, email address, phone number, location, contacts, photos, or any personally identifiable information. There are no user accounts or login systems.</p>
+
+<h2>Third-Party Services</h2>
+
+<h3>Google AdMob</h3>
+<p>The app displays interstitial advertisements through Google AdMob. Google may collect device identifiers, ad interaction data, and approximate location via IP address in accordance with <a href="https://policies.google.com/privacy">Google's Privacy Policy</a>. You can opt out of personalized advertising through iOS Settings &gt; Privacy &amp; Security &gt; Tracking.</p>
+
+<h3>Apple App Store</h3>
+<p>In-app purchases (gems and ad removal) are processed entirely by Apple through StoreKit. Apple handles all payment and transaction data per <a href="https://www.apple.com/legal/privacy/">Apple's Privacy Policy</a>. The app only receives confirmation that a purchase was completed.</p>
+
+<h2>Network Activity</h2>
+<p>The Daily Challenge feature makes a single request to apple.com to verify the current date. This prevents timezone manipulation and does not transmit any personal information.</p>
+
+<h2>Data Storage</h2>
+<p>All game data is stored locally on your device. There is no cloud syncing, no server-side storage, and no external backups. Deleting the app removes all stored data.</p>
+
+<h2>Children's Privacy</h2>
+<p>The app does not knowingly collect personal information from children under 13. Advertisements displayed by Google AdMob may collect device information as described above.</p>
+
+<h2>Your Choices</h2>
+<ul>
+    <li>Purchase <strong>Remove Ads</strong> ($1.99) to permanently disable all advertisements.</li>
+    <li>Disable personalized ads in <strong>iOS Settings</strong>.</li>
+    <li>Delete the app at any time to remove all local data.</li>
+</ul>
+
+<h2>Changes</h2>
+<p>Updates to this policy will be posted here with a revised effective date.</p>
+
+<h2>Contact</h2>
+<p>For questions or concerns, please reach out at <strong>FLR4TOC4EUUS.privacypolicy@protonmail.com</strong>.</p>
+
+</body>
+</html>
